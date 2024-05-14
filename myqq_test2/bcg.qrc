@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bcg.jpg</file>
+        <file>offlineIcon.png</file>
+        <file>onlineIcon.png</file>
+        <file>qqpic.jpg</file>
+        <file>chatwindow_pic.jpg</file>
+        <file>chatrecord_pic.jpg</file>
+        <file>chatsearch_pic.jpg</file>
+        <file>friendchatwindow_pic.jpg</file>
+        <file>groupchatwindow_pic.jpg</file>
+        <file>admin.jpg</file>
+    </qresource>
+</RCC>
